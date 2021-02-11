@@ -203,8 +203,8 @@ button{
         margin-left: 0px;
     }
 }
-@media(max-width:316px){
-    .card{
-        width: 90%;
-    }
+@media(max-width:454px){
+ .card{
+ width:90%;
+margin:20px 0px;
 }
