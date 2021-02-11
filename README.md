@@ -21,5 +21,7 @@
 
 
 ## 📸 Screenshots
-<img src="pokedex.png" width='400px' height="auto">
-<img src="full.png" width="700px" height=700px">
+<img src="https://github.com/jaydeep-shelake/pokedexjs/raw/master/pokedex.png" width='420px' height="auto">
+<img src="https://github.com/jaydeep-shelake/pokedexjs/raw/master/full.png" width="600px" height=700px">
+
+Link: https://loving-minsky-3bc9af.netlify.app/
